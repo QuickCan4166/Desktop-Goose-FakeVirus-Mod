@@ -14,3 +14,7 @@ If it gives you an error about pillow or keyboard or pygui32 run:
 pip install pyautogui keyboard Pillow pywin32
 
 If its somthing else idk man open an issue thingy
+## credits
+QuickCan for the mod
+
+samperson for the original desktop goose https://samperson.itch.io/desktop-goose
